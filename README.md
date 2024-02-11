@@ -1,11 +1,19 @@
 # bambasnake
 my first "game"!
-this would probably be the best ever snake you ever played - albert einstein
+Check out the trailer below to get diving into this brand new game!~
 
-Features: Copyright music and background!
-Music from: Mario Kart Wii - Coconut Mall
-Background from: Legend Of Zelda - Minish Cap!
-Deathscreen from Dark Souls!
+
+
+
+
+
+
+"this would probably be the best ever snake you ever played", albert einstein (you'd wish)
+
+# Features: Copyright music and background!
+# Music from: Mario Kart Wii - Coconut Mall
+# Background from: Legend Of Zelda - Minish Cap!
+# Deathscreen from Dark Souls!
 
 if you would, rate the game after watching this video, i would appriciate it!
 https://www.youtube.com/watch?v=xvFZjo5PgG0
