@@ -2,10 +2,7 @@
 my first "game"!
 Check out the trailer below to get diving into this brand new game!~
 
-
-
-
-
+https://github.com/Bambaclad1/bambasnake/assets/67043806/ece9b3c6-fc12-49aa-a8b7-9b60f5d5cce3
 
 
 "this would probably be the best ever snake you ever played", albert einstein (you'd wish)
