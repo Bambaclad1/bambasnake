@@ -22,3 +22,6 @@ app needed to run this: processing, i tried exporting it went wrong
 libaries needed to play this game: processing.sound
 In the top menu, go to Sketch > Import Libary > Manage Libary and install 
 Sound | Provides a simple way to work with audio. By the Processing Foundation
+
+
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVkxcndoRV9aVFhzV0RjVUNxSnRDVXJMNHJxNU4wYWk0P3VzcD1zaGFyaW5n
